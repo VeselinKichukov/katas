@@ -34,7 +34,6 @@ class RomanNumerals
                 $result .= $numeral;
             }
         }
-
         return $result;
     }
 }
